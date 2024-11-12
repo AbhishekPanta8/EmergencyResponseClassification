@@ -1,0 +1,7 @@
+pandas
+flask
+torch
+transformers
+sklearn
+nltk
+textblob
